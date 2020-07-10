@@ -1,4 +1,4 @@
-### Hi there 👋
+### howdy
 
 <!--
 **xantha/xantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm jess (she/her) and I do stuff with data.
+
+I'm good at making things fast and bad at making things pretty (but I appreciate pretty things!).
