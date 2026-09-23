@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm jess (she/her) and I do stuff with data.
 
-I'm good at making things fast and bad at making things pretty (but I appreciate pretty things!).
+I'm good at making things fast and bad at making things pretty
